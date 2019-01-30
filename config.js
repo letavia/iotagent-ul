@@ -195,7 +195,7 @@ config.iota = {
         /**
          * Name of the set in case the Mongo database is configured as a Replica Set. Optional otherwise.
          */
-        //replicaSet: 'kubecity-rs'
+        replicaSet: 'kubecity-rs'
     },
 
     /**
