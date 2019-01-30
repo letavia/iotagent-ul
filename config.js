@@ -116,7 +116,7 @@ config.iota = {
         /**
          * Port where the IoT Agent will be listening for NGSI and Provisioning requests.
          */
-        port: 4061
+        port: 4041
     },
 
     /**
